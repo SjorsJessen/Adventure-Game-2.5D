@@ -1,11 +1,19 @@
 # =============== #
 # Unity generated #
 # =============== #
+
 Temp/
+
 Obj/
+
 UnityGenerated/
+
 Library/
-Assets/External Assets/
+
+Assets/Audio
+Assets/Standard Assets
+Assets/External Assets
+
 Assets/AssetStoreTools*
 
 # ===================================== #
